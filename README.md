@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dexizer7799
-- 👀 I’m interested in Web3, Python, Cryptography
+- 👀 I’m interested in Web3, Python, Cryptography, SageMath, Elliptic Curves, RSA and other algorithms.
 - 🌱 I’m currently learning Cryptography
 - 😄 Pronouns: Dexizer
 - ⚡ Fun fact: I'm from planet Mars.
